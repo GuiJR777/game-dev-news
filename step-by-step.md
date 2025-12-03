@@ -1,0 +1,5 @@
+- Instalar versão do Node
+- Instalar NextJS
+- Instalar React
+- Instalar React-Dom
+- 

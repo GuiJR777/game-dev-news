@@ -1,0 +1,16 @@
+{
+  "name": "game-dev-news",
+  "version": "1.0.0",
+  "description": "Projeto de portal de noticias sobre Game Dev baseado no tab-news do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guilherme.ramires",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
